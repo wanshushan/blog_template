@@ -100,7 +100,7 @@ export const profileConfig: ProfileConfig = {
 
 // 右侧网站信息配置
 export const widgetConfig: WidgetConfig = {
-	umamiShareUrl: "https://cloud.umami.is/share/Rg9QjG4BipBbdhik", // Umami 统计分享链接
+	umamiShareUrl: "https://cloud.umami.is/share/IoB9PjYCJUa3bRGh", // Umami 统计分享链接
 	siteStartTime: "2026-05-27T08:00:00+08:00", // 网站开始运行时间
 };
 

@@ -162,8 +162,8 @@ const bannerSrc = banner?.startsWith("/") ? url(banner) : banner;
 					const script = document.createElement("script");
 					script.id = SCRIPT_ID;
 					script.src = "https://cloud.umami.is/script.js";
-					script.async = true;
-					script.setAttribute("data-website-id", "cfeadef6-fe32-47a7-99bb-81bdac577e44");
+					script.async = true;                   //改为自己的 Umami 统计链接
+					script.setAttribute("data-website-id", "109b9fd3-204e-41c7-b2c2-b8e69b5c0480");
 					document.head.appendChild(script);
 				};
 
