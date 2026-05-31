@@ -32,6 +32,17 @@ git clone
 ```bash
 npm install
 ```
+新建文章：
+
+```bash
+pnpm new-post 文章标题
+```
+
+新建相册：
+
+```bash
+pnpm new-photo 相册名称
+```
 
 ### 组件配置
 
